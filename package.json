@@ -1,6 +1,6 @@
 {
 	"name": "@chienleng/svelte-calendar",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"author": "Steven Tan <steven@steventan.com.au> (https://steventan.com.au)",
 	"license": "MIT",
 	"scripts": {
@@ -14,7 +14,7 @@
 		"release": "release-it"
 	},
 	"exports": {
-		".": "./src/lib/index.js"
+		".": "./index.js"
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.25.0",
