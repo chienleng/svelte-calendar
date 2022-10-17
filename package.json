@@ -1,6 +1,6 @@
 {
 	"name": "@chienleng/svelte-calendar",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"author": "Steven Tan <steven@steventan.com.au> (https://steventan.com.au)",
 	"license": "MIT",
 	"scripts": {
