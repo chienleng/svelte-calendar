@@ -16,6 +16,12 @@
 	"exports": {
 		".": "./index.js"
 	},
+	"publishConfig": {
+		"access": "public"
+	},
+	"npm": {
+		"publishPath": "./package"
+	},
 	"devDependencies": {
 		"@playwright/test": "^1.25.0",
 		"@sveltejs/adapter-auto": "next",
