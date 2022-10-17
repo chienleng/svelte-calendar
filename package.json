@@ -19,12 +19,14 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"npm": {
-		"publishPath": "./package"
-	},
-	"hooks": {
-		"after:bump": "npm run build",
-		"after:release": "echo Successfully released ${name} v${version} to ${repo.repository}."
+	"release-it": {
+		"npm": {
+			"publishPath": "./package"
+		},
+		"hooks": {
+			"after:bump": "npm run build",
+			"after:release": "echo Successfully released ${name} v${version} to ${repo.repository}."
+		}
 	},
 	"devDependencies": {
 		"@playwright/test": "^1.25.0",
