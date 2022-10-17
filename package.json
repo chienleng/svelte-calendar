@@ -1,8 +1,13 @@
 {
 	"name": "@chienleng/svelte-calendar",
 	"version": "0.0.5",
-	"author": "Steven Tan <steven@steventan.com.au> (https://steventan.com.au)",
+	"description": "calendar view component for svelte",
+	"author": "steven tan | @chienleng | steventan.com.au",
 	"license": "MIT",
+	"keywords": [
+		"svelte",
+		"calendar"
+	],
 	"scripts": {
 		"dev": "vite dev",
 		"build": "svelte-kit sync && svelte-package",
