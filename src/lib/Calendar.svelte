@@ -1,1 +1,1 @@
-<h1 class="text-red">Svelte Calendar</h1>
+<h1 class="text-red-800">Svelte Calendar</h1>
