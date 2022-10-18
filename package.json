@@ -1,6 +1,6 @@
 {
 	"name": "@chienleng/svelte-calendar",
-	"version": "0.0.8",
+	"version": "0.0.9",
 	"description": "calendar view component for svelte",
 	"author": "steven tan | @chienleng | steventan.com.au",
 	"license": "MIT",
